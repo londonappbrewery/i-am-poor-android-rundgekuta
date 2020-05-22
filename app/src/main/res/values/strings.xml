@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="title">I Am The Boss</string>
+    <string name="ImageDescription">Image</string>
+    <string name="Button1">Click To Enter</string>
+
 </resources>
